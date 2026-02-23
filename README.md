@@ -45,7 +45,7 @@ npx expo install react-native-screens@~4.16.0
 git clone https://github.com/hafsalman/BottomTabNavigation
 ```
 
-### 2️⃣ Install Dependencies 
+### 2️⃣ Initialize Expo Project 
 
 ``` bash
 npx create-expo-app BottomTabNav --template expo-template-blank
@@ -58,7 +58,7 @@ cd SignIn
 ```
 (Replace the default App.js with the cloned App.js and add the rest of the folders.)
 
-### 4️⃣ Install Dependencies
+### 4️⃣ Install Dependencies 
 
 ``` bash
 npm install @react-navigation/native
